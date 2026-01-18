@@ -1,0 +1,5 @@
+{
+  "name": "SquareCut - Pro Image Square Cropper",
+  "description": "A high-performance image processing tool that perfectly crops any photo into a high-resolution square based on its shortest dimension.",
+  "requestFramePermissions": []
+}
